@@ -1,0 +1,29 @@
+body {
+  padding: 3%;
+}
+
+img {
+  float: left;
+  width: 29%;
+  margin: 10px;
+}
+
+article {
+  float: left;
+  width: 27%;
+  padding: 2em;
+}
+
+.clear-lf {
+  clear: left;
+}
+
+#site-title {
+  font-style: oblique;
+  font-size: 4rem;
+  text-align: center;
+  background-color: blue;
+  color: white;
+  margin: 5px;
+  padding: 20px;
+}
